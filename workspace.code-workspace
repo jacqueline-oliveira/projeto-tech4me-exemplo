@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"name": "eureka-server",
+			"path": "eureka-server"
+		},
+		{
+			"name": "zuul-server",
+			"path": "zuul-server"
+		},
+		{
+			"name": "tech4authors",
+			"path": "tech4authors"
+		},
+		{
+			"path": "tech4books"
+		}
+	],
+	"settings": {
+		"java.configuration.updateBuildConfiguration": "automatic"
+	}
+}
